@@ -3,8 +3,7 @@ Univariate Timeseries
 
 Data: https://datahub.io/core/gold-prices#resource-monthly
 
-Problem Statement: The data has gold prices in USD per troy ounce, since 1950 to April 2020. We want to make forecast for the prices in
-the coming year and decade.
+Problem Statement: The data has monthly average gold prices in USD per troy ounce, since 1950 to April 2020. We want to make forecast for the prices in the coming year and decade.
 
 Motivation: Gold once again has emerged as one of the best performing asset class in 2020 after stupendous 2019. Gold prices got shot in
 the arm after US Federal Reserve chief warned that a full recovery of the US economy could drag through 2021. The increasing tension
