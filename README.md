@@ -10,7 +10,7 @@ the arm after US Federal Reserve chief warned that a full recovery of the US eco
 
 The fundamental story for gold remains strong as money printing by central banks and vast state stimulus packages are rekindling interest
 in one of the oldest stores of wealth a.k.a gold. The same story was unfolding in 2008 when money managers piled in gold as an increase 
-in money supply leads to a devaluation of fiat currency and increase in inflation. But in 2008, inflation was kept checked which is why
+in money supply leads to a devaluation of currency and increase in inflation. But in 2008, inflation was kept checked which is why
 gold had to scale back from high’s of $1970 but the unprecedented scale of the government response to the coronavirus crisis is feeding 
 the argument that this time it will be different. In an environment where bond yields are close to zero, real interest rates are 
 consistently under zero, there is no opportunity cost of holding gold. Historically, that is when gold has performed the best. This has 
